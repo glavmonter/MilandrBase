@@ -1,0 +1,9 @@
+.idea/
+cmake-build-*
+include/cxxopts.hpp
+fmt/*
+!fmt/.gitkeep
+ftdi/*
+!ftdi/.gitkeep
+docs/
+bin/
